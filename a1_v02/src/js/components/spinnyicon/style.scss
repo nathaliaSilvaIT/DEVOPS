@@ -1,0 +1,28 @@
+
+@media all and (max-width: 480px) {
+  .spinny-icon {
+    align-items: center;
+
+    margin: 1rem;
+  }
+}
+
+@media all and (max-width: 839px) { 
+  .spinny-icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    margin-top: 1rem;
+  }
+} 
+
+@media all and (max-width: 1024px) {
+  .spinny-icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    margin-top: 1rem;
+  }
+} 
